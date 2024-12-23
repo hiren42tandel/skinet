@@ -85,5 +85,4 @@ public class ProductsController(IGenericRepository<Product> repository) : BaseAp
     {
         return repository.Exists(id);
     }
-
 }
