@@ -28,3 +28,7 @@
 .button.match-input-height{
     height: var(--mat-form-field-container-height) !important
 }
+
+.mdc-notched-outline_notch{
+    border-right-style: none !important
+}
